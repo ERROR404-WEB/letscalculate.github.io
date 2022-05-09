@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding: 0;
+  
+}
+.box{
+  justify-content:center;
+  align-items:center;
+  margin:0 auto;
+
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.text{
+  display: flex;
+  justify-content: center;
+}
+.buttons{
+  justify-content: center;
+}
+button{
+  margin:2px;
+  padding:13px;
+  border:none;
+  border-radius:10px;
+  
+}
+input{
+  margin:5px;
+  padding:5px;
+}
+.bb {
+  padding-right:30px;
+}
+.bb1{
+  padding-right:29px;
+}
